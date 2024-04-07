@@ -36,7 +36,7 @@ project, you can use the following script tag:
 </script>
 ```
 
-# Utility
+## Utility
 
 | Function Name               | Description                                                                                    |
 |-----------------------------|------------------------------------------------------------------------------------------------|
@@ -98,7 +98,7 @@ project, you can use the following script tag:
 | hashWithSHA384              | Hash data using SHA-384 algorithm                                                              |
 | hashPasswordSHA384          | Hash password with SHA-384 algorithm and salt                                                  |
 
-# Validate
+## Validate
 
 | Function Name        | Description                                                                                                                                                    |
 |----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
