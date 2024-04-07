@@ -1,36 +1,44 @@
 {
-  "name": "utilities",
-  "version": "1.0.0",
-  "description": "This package does not offer any useful code or functionality at the moment. Please refrain from installing it for now.",
+  "name": "utility-validate",
+  "version": "1.0.2",
+  "description": "A collection of validators, sanitizers, and utilities.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
-  "homepage": "https://github.com/blckclov3r/utilities#readme",
+  "homepage": "https://github.com/blckclov3r/utility-validate#readme",
   "keywords": [
     "utilities",
+    "validator",
     "validation",
+    "validate",
     "utility",
     "library",
-    "sanitization",
-    "assertion",
     "validity",
     "hooks",
-    "functions",
-    "verification",
-    "helpers",
-    "tools"
+    "util",
+    "utils",
+    "sha256",
+    "sha1",
+    "sha512",
+    "sha384",
+    "hash",
+    "hex",
+    "hash",
+    "sanitize",
+    "santise"
   ],
   "author": "blckclov3r",
   "license": "MIT",
   "repository": {
-    "url": "git+https://github.com/blckclov3r/utilities.git"
+    "url": "git+https://github.com/blckclov3r/utility-validate.git"
   },
   "bugs": {
-    "url": "https://github.com/blckclov3r/utilities/issues",
+    "url": "https://github.com/blckclov3r/utility-validate/issues",
     "email": "blckclov3r@gmail.com"
   },
   "devDependencies": {
     "@swc/core": "^1.4.11",
+    "@types/node": "^20.12.5",
     "terser": "^5.29.2",
     "tsup": "^8.0.2",
     "typescript": "^5.4.3"
